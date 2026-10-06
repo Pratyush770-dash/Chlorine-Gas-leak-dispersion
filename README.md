@@ -4,7 +4,7 @@ This is a CFD study in ANSYS Fluent of a small chlorine leak from a tank sitting
 
 I did this as a self-directed portfolio project. The idea came from the kind of chemical hazard work done around plants that handle gases like HF, Cl₂ and NH₃, where somebody has to figure out how far a leak can actually hurt people. I wanted to go through the whole thing myself, from drawing the geometry to reading concentrations against a safety limit, instead of following a tutorial. Chlorine is the only gas I've finished so far. HF and NH₃ are next on my list.
 
-![mole fraction of Cl2 contour]()
+![mole fraction of Cl2 contour](results/contours/Cl2_mole_Fraction_contour.jpeg)
 
 Table of Contents
 - [What Was Done](#what-was-actually-done)
